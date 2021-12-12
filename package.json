@@ -1,0 +1,21 @@
+{
+  "name": "web_speech",
+  "version": "1.0.0",
+  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "api.ai",
+    "Bot"
+  ],
+  "author": "Sayan Maity",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
